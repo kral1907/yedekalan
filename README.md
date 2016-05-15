@@ -1,0 +1,2 @@
+# yedekalan
+Yedek alan
